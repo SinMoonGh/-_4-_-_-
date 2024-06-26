@@ -3,18 +3,13 @@
 ## 목차
 
 - [소개](#소개)
-- [My git hub](#my-git-hub)
 - [기술 스택](#기술-스택)
-- [프로젝트 관련 링크](#프로젝트-관련-링크)
 - [프로젝트 경험](#프로젝트-경험)
+- [교육](#교육)
 
 ## 소개
 
-자기소개 문구를 간단히 작성합니다. 자신의 경험, 전문 분야, 목표 등을 포함할 수 있습니다.
-
-## My git hub
-- 이메일: [your.email@example.com](mailto:your.email@example.com)
-- GitHub: [https://github.com/SinMoonGh/](https://github.com/SinMoonGh/)
+안녕하세요. 멋사에서 파이썬 백엔드 교육 받고 있는 Myeong Hoon Sin입니다.
 
 ## 기술 스택
 - **프로그래밍 언어**: Python
@@ -26,8 +21,8 @@
 ## 프로젝트 경험
 
 - **링크**: [https://github.com/choi-jyoon/franding.git](https://github.com/choi-jyoon/franding.git)
-- **설명**: 프로젝트에 대한 간단한 설명
-- **기술 스택**: 사용한 주요 기술
+- **설명**: 향수 입문자들을 위한 향수 추천 서비스와 무료 시향지 제공 서비스로 다른 사이트와 차별화를 둔 향수 사이트
+- **기술 스택**: python, django, postgreSQL, Docker, Aws, redis
 - **역할**:
 
 #### 1. 장바구니 기능
